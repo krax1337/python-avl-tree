@@ -1,0 +1,8 @@
+Node class testing
+
+>>> from tree import Node
+>>> root = Node(6)
+>>> root.insert(5)
+>>> root.insert(14)
+>>> root.find(14)
+14
